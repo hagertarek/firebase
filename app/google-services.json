@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "240218645919",
+    "firebase_url": "https://testapp-66c72.firebaseio.com",
+    "project_id": "testapp-66c72",
+    "storage_bucket": "testapp-66c72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240218645919:android:09dca587ede0e82d",
+        "android_client_info": {
+          "package_name": "com.example.hagertarek.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240218645919-p5fmib8qkus1a9rq3rad9254d47pl3b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCga0xpT8KVTCBdq3a2XLQZwHRAuJ2aow0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
